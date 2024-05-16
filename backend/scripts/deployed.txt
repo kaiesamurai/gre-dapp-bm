@@ -1,0 +1,9 @@
+Deploying Contracts for scroll....
+Deploying treasury for scroll
+---- Treasury Contract was deployed to: ----  0x6D919b8dC30BEf41b56Aa8b18b2052c9459F8E9A
+Deploying Community contract for scroll
+---- Community Contract for scroll was deployed to scroll testnet at this address: ----  0xA39d26482B5c226Fd02A5f3e159C72ee03d63Fc0
+Deploying UserNFT for scroll....
+---- UserNFT Contract was deployed to: ----  0x90beb26b030f1B972a5A134cF1b47c6dcFfcb201
+Deploying NutritionistNFT for scroll....
+---- NutritionistNFT Contract was deployed to: ----  0x48809a0566e25D8f3F6bc9b9AA4AC61Faf165B68
